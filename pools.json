@@ -56,4 +56,11 @@
       "lucky-mining.com.ua"
     ]
   },
+  {
+    "poolName": "BitPoolMining",
+    "url": "https://www.bitpoolmining.com/",
+    "searchStrings": [
+      "BitPoolMining"
+    ]
+  },
 ]
